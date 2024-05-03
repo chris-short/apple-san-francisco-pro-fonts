@@ -1,0 +1,565 @@
+This San Francisco Font (the “Apple Font”) is licensed to you by Apple Inc. (“Apple”) in consideration of your agreement to the following terms and the terms of the License Agreement for the Apple San Francisco Compact Font that was presented upon the downloading of the Apple Font. If you do not agree with these terms and the terms of the License Agreement for the Apple San Francisco Compact Font, do not use the Apple Font.
+
+You may use the Apple Font solely for creating mock-ups of user interfaces to be used in software products running on Apple’s iOS, iPadOS, macOS, tvOS or watchOS operating systems, as applicable. The foregoing right includes the right to show the Apple Font in screen shots, images, mock-ups or other depictions, digital and/or print, of such software products running solely on iOS, macOS, tvOS or watchOS.
+
+The grants set forth in this License do not permit you to, and you agree not to, install, use or run the Apple Font for the purpose of creating mock-ups of user interfaces to be used in software products running on any non-Apple operating system or to enable others to do so. You may not embed the Apple Font in any software programs or other products. Except as expressly provided for herein, you may not use the Apple Font to, create, develop, display or otherwise distribute any documentation, artwork, website content or any other work product.
+
+You may use the Apple Font: (i) only for the purposes described in this License and the License Agreement for the Apple San Francisco Compact Font; and (ii) only if you are a Registered Apple Developer, or as otherwise expressly permitted by Apple in writing.
+
+You agree that you shall not use or incorporate the Symbols or any substantially or confusingly similar images into app icons, logos or make any other trademark use of the Symbols.  Apple reserves the right to review and, in its sole discretion, require modification or discontinuance of use of any Symbol used in violation of the foregoing restrictions, and you agree to promptly comply with any such request.
+
+Your use of certain symbols shall also be subject to any specific use restrictions with respect thereto as set forth below:
+
+The following symbols may not be modified and may only be used to refer to Apple’s Accessibility features:
+	accessibility
+	accessibility.badge.arrow.up.right
+	accessibility.fill
+	voiceover
+
+The following symbols may not be modified and may only be used to refer to Apple’s AirPlay:
+	airplayaudio
+	airplayaudio.badge.exclamationmark
+	airplayaudio.circle
+	airplayaudio.circle.fill
+	airplayvideo
+	airplayvideo.badge.exclamationmark
+	airplayvideo.circle
+	airplayvideo.circle.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s AirPods:
+	airpod.gen3.left
+	airpod.gen3.right
+	airpod.left
+	airpod.right
+	airpods
+	airpods.chargingcase
+	airpods.chargingcase.fill
+	airpods.chargingcase.wireless
+	airpods.chargingcase.wireless.fill
+	airpods.gen3
+	airpods.gen3.chargingcase.wireless
+	airpods.gen3.chargingcase.wireless.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s AirPods Pro:
+	airpodpro.left
+	airpodpro.right
+	airpodspro
+	airpodspro.chargingcase.wireless
+	airpodspro.chargingcase.wireless.fill
+	airpodspro.chargingcase.wireless.radiowaves.left.and.right
+	airpodspro.chargingcase.wireless.radiowaves.left.and.right.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s AirPods Max:
+	airpodsmax
+
+The following symbols may not be modified and may only be used to refer to Apple’s AirPort Express:
+	airport.express
+
+The following symbols may not be modified and may only be used to refer to Apple’s AirPort Extreme:
+	airport.extreme
+	airport.extreme.tower
+
+The following symbols may not be modified and may only be used to refer to Apple’s AirTag:
+	airtag
+	airtag.fill
+	airtag.radiowaves.forward
+	airtag.radiowaves.forward.fill
+	airtag.radiowaves.forward.fill.rtl
+	airtag.radiowaves.forward.rtl
+
+The following symbols may not be modified and may only be used to refer to Apple’s App Clips:
+	appclip
+
+The following symbols may not be modified and may only be used to refer to Sign in with Apple:
+	apple.logo
+
+The following symbols may not be modified and may only be used to refer to Apple Pencil:
+	applepencil
+	applepencil.adapter.usb.c
+	applepencil.adapter.usb.c.fill
+	applepencil.and.scribble
+	applepencil.gen1
+	applepencil.gen2
+	applepencil.tip
+
+The following symbols may not be modified and may only be used to refer to Apple’s AppleScript language:
+	applescript
+	applescript.fill
+
+The following symbols may not be modified and may only be used to refer to Apple TV:
+	appletv
+	appletv.fill
+	appletvremote.gen1
+	appletvremote.gen1.fill
+	appletvremote.gen2
+	appletvremote.gen2.fill
+	appletvremote.gen3
+	appletvremote.gen3.fill
+	appletvremote.gen4
+	appletvremote.gen4.fill
+	hifispeaker.and.appletv
+	hifispeaker.and.appletv.fill
+	hifispeaker.and.appletv.fill.rtl
+	hifispeaker.and.appletv.rtl
+
+The following symbols may not be modified and may only be used to refer to Apple Watch:
+	applewatch
+	applewatch.and.arrow.forward
+	applewatch.and.arrow.forward.rtl
+	applewatch.case.inset.filled
+	applewatch.radiowaves.left.and.right
+	applewatch.side.right
+	applewatch.slash
+	applewatch.watchface
+	arrow.down.applewatch
+	checkmark.applewatch
+	exclamationmark.applewatch
+	lock.applewatch
+	lock.open.applewatch
+	platter.bottom.applewatch.case
+	platter.filled.bottom.applewatch.case
+	platter.filled.top.applewatch.case
+	platter.top.applewatch.case
+	watchface.applewatch.case
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPad:
+	apps.ipad
+	apps.ipad.landscape
+	ipad
+	ipad.badge.play
+	ipad.gen1
+	ipad.gen1.badge.play
+	ipad.gen1.landscape
+	ipad.gen1.landscape.badge.play
+	ipad.gen2
+	ipad.gen2.badge.play
+	ipad.gen2.landscape
+	ipad.gen2.landscape.badge.play
+	ipad.landscape
+	ipad.landscape.badge.play
+	ipad.sizes
+	macbook.and.ipad
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPhone:
+	apps.iphone
+	apps.iphone.badge.plus
+	apps.iphone.landscape
+	apps.iphone.landscape.rtl
+	iphone
+	iphone.and.arrow.left.and.arrow.right
+	iphone.badge.play
+	iphone.circle
+	iphone.circle.fill
+	iphone.gen1
+	iphone.gen1.badge.play
+	iphone.gen1.circle
+	iphone.gen1.circle.fill
+	iphone.gen1.landscape
+	iphone.gen1.radiowaves.left.and.right
+	iphone.gen1.radiowaves.left.and.right.circle
+	iphone.gen1.radiowaves.left.and.right.circle.fill
+	iphone.gen1.slash
+	iphone.gen1.slash.circle
+	iphone.gen1.slash.circle.fill
+	iphone.gen2
+	iphone.gen2.badge.play
+	iphone.gen2.circle
+	iphone.gen2.circle.fill
+	iphone.gen2.landscape
+	iphone.gen2.radiowaves.left.and.right
+	iphone.gen2.radiowaves.left.and.right.circle
+	iphone.gen2.radiowaves.left.and.right.circle.fill
+	iphone.gen2.slash
+	iphone.gen2.slash.circle
+	iphone.gen2.slash.circle.fill
+	iphone.gen3
+	iphone.gen3.badge.play
+	iphone.gen3.circle
+	iphone.gen3.circle.fill
+	iphone.gen3.landscape
+	iphone.gen3.radiowaves.left.and.right
+	iphone.gen3.radiowaves.left.and.right.circle
+	iphone.gen3.radiowaves.left.and.right.circle.fill
+	iphone.gen3.slash
+	iphone.gen3.slash.circle
+	iphone.gen3.slash.circle.fill
+	iphone.landscape
+	iphone.radiowaves.left.and.right
+	iphone.radiowaves.left.and.right.circle
+	iphone.radiowaves.left.and.right.circle.fill
+	iphone.sizes
+	iphone.slash
+	iphone.slash.circle
+	iphone.slash.circle.fill
+	macbook.and.iphone
+
+The following symbols may not be modified and may only be used to refer to Apple’s ARKit:
+	arkit
+	arkit.badge.xmark
+
+The following symbols may not be modified and may only be used to refer to Apple’s iCloud service:
+	arrow.clockwise.icloud
+	arrow.clockwise.icloud.fill
+	arrow.counterclockwise.icloud
+	arrow.counterclockwise.icloud.fill
+	arrow.triangle.2.circlepath.icloud
+	arrow.triangle.2.circlepath.icloud.fill
+	bolt.horizontal.icloud
+	bolt.horizontal.icloud.fill
+	checkmark.icloud
+	checkmark.icloud.fill
+	exclamationmark.icloud
+	exclamationmark.icloud.fill
+	icloud
+	icloud.and.arrow.down
+	icloud.and.arrow.down.fill
+	icloud.and.arrow.up
+	icloud.and.arrow.up.fill
+	icloud.circle
+	icloud.circle.fill
+	icloud.fill
+	icloud.slash
+	icloud.slash.fill
+	icloud.square
+	icloud.square.fill
+	key.icloud
+	key.icloud.fill
+	link.icloud
+	link.icloud.fill
+	lock.icloud
+	lock.icloud.fill
+	person.icloud
+	person.icloud.fill
+	xmark.icloud
+	xmark.icloud.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s FaceTime app:
+	arrow.down.left.video
+	arrow.down.left.video.fill
+	arrow.up.right.video
+	arrow.up.right.video.fill
+	questionmark.video
+	questionmark.video.ar
+	questionmark.video.fill
+	questionmark.video.fill.ar
+	video
+	video.badge.checkmark
+	video.badge.ellipsis
+	video.badge.plus
+	video.badge.waveform
+	video.badge.waveform.fill
+	video.bubble
+	video.bubble.fill
+	video.bubble.fill.rtl
+	video.bubble.rtl
+	video.circle
+	video.circle.fill
+	video.fill
+	video.fill.badge.checkmark
+	video.fill.badge.ellipsis
+	video.fill.badge.plus
+	video.slash
+	video.slash.circle
+	video.slash.circle.fill
+	video.slash.fill
+	video.square
+	video.square.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Messages app:
+	arrow.down.message
+	arrow.down.message.fill
+	arrow.up.message
+	arrow.up.message.fill
+	checkmark.message
+	checkmark.message.fill
+	ellipsis.message
+	ellipsis.message.fill
+	message
+	message.badge
+	message.badge.circle
+	message.badge.circle.fill
+	message.badge.circle.fill.rtl
+	message.badge.circle.rtl
+	message.badge.fill
+	message.badge.fill.rtl
+	message.badge.filled.fill
+	message.badge.filled.fill.rtl
+	message.badge.rtl
+	message.badge.waveform
+	message.badge.waveform.fill
+	message.circle
+	message.circle.fill
+	message.fill
+	plus.message
+	plus.message.fill
+
+The following symbols may not be modified and may only be used to refer to Beats earphones:
+	beats.earphones
+
+The following symbols may not be modified and may only be used to refer to Beats Fit Pro:
+	beats.fitpro
+	beats.fitpro.left
+	beats.fitpro.right
+
+The following symbols may not be modified and may only be used to refer to Beats Fit Pro case:
+	beats.fitpro.chargingcase
+	beats.fitpro.chargingcase.fill
+
+The following symbols may not be modified and may only be used to refer to Beats headphones:
+	beats.headphones
+
+The following symbols may not be modified and may only be used to refer to Beats Powerbeats:
+	beats.powerbeats
+	beats.powerbeats.left
+	beats.powerbeats.right
+
+The following symbols may not be modified and may only be used to refer to Beats Powerbeats3:
+	beats.powerbeats3
+	beats.powerbeats3.left
+	beats.powerbeats3.right
+
+The following symbols may not be modified and may only be used to refer to Beats Powerbeats Pro:
+	beats.powerbeatspro
+	beats.powerbeatspro.left
+	beats.powerbeatspro.right
+
+The following symbols may not be modified and may only be used to refer to Beats Powerbeats Pro case:
+	beats.powerbeatspro.chargingcase
+	beats.powerbeatspro.chargingcase.fill
+
+The following symbols may not be modified and may only be used to refer to Beats Studio Buds:
+	beats.studiobud.left
+	beats.studiobud.right
+	beats.studiobuds
+
+The following symbols may not be modified and may only be used to refer to Beats Studio Buds case:
+	beats.studiobuds.chargingcase
+	beats.studiobuds.chargingcase.fill
+
+The following symbols may not be modified and may only be used to refer to Beats Studio Buds Plus:
+	beats.studiobudsplus
+	beats.studiobudsplus.left
+	beats.studiobudsplus.right
+
+The following symbols may not be modified and may only be used to refer to Beats Studio Buds Plus case:
+	beats.studiobudsplus.chargingcase
+	beats.studiobudsplus.chargingcase.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Bonjour networking:
+	bonjour
+
+The following symbols may not be modified and may only be used to refer to Apple’s Desk View:
+	deskview
+	deskview.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Digital Crown:
+	digitalcrown.arrow.clockwise
+	digitalcrown.arrow.clockwise.fill
+	digitalcrown.arrow.counterclockwise
+	digitalcrown.arrow.counterclockwise.fill
+	digitalcrown.horizontal.arrow.clockwise
+	digitalcrown.horizontal.arrow.clockwise.fill
+	digitalcrown.horizontal.arrow.counterclockwise
+	digitalcrown.horizontal.arrow.counterclockwise.fill
+	digitalcrown.horizontal.press
+	digitalcrown.horizontal.press.fill
+	digitalcrown.press
+	digitalcrown.press.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s EarPods:
+	earpods
+
+The following symbols may not be modified and may only be used to refer to Apple’s Face ID feature:
+	faceid
+
+The following symbols may not be modified and may only be used to refer to Apple Vision Pro:
+	head.profile.arrow.forward.and.visionpro
+	visionpro
+	visionpro.and.arrow.forward
+	visionpro.and.arrow.forward.fill
+	visionpro.badge.exclamationmark
+	visionpro.badge.exclamationmark.fill
+	visionpro.badge.play
+	visionpro.badge.play.fill
+	visionpro.circle
+	visionpro.circle.fill
+	visionpro.fill
+	visionpro.slash
+	visionpro.slash.circle
+	visionpro.slash.circle.fill
+	visionpro.slash.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s HomePod:
+	hifispeaker.and.homepod
+	hifispeaker.and.homepod.fill
+	homepod
+	homepod.2
+	homepod.2.fill
+	homepod.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s HomePod mini:
+	hifispeaker.and.homepodmini
+	hifispeaker.and.homepodmini.fill
+	homepodmini
+	homepodmini.2
+	homepodmini.2.fill
+	homepodmini.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s HomeKit:
+	homekit
+
+The following symbols may not be modified and may only be used to refer to Apple’s HomePod and Apple TV:
+	homepod.and.appletv
+	homepod.and.appletv.fill
+	homepod.and.appletv.fill.rtl
+	homepod.and.appletv.rtl
+
+The following symbols may not be modified and may only be used to refer to Apple’s HomePod and HomePod mini:
+	homepod.and.homepodmini
+	homepod.and.homepodmini.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s HomePod mini and Apple TV:
+	homepodmini.and.appletv
+	homepodmini.and.appletv.fill
+	homepodmini.and.appletv.fill.rtl
+	homepodmini.and.appletv.rtl
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPad and iPhone:
+	ipad.and.iphone
+	ipad.and.iphone.slash
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPad case:
+	ipad.case
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPad and iPhone case:
+	ipad.case.and.iphone.case
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPhone case:
+	iphone.case
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPhone Smart Battery Case:
+	iphone.smartbatterycase.gen1
+	iphone.smartbatterycase.gen2
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPod:
+	ipod
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPod shuffle:
+	ipodshuffle.gen1
+	ipodshuffle.gen2
+	ipodshuffle.gen3
+	ipodshuffle.gen4
+
+The following symbols may not be modified and may only be used to refer to Apple’s iPod touch:
+	ipodtouch
+	ipodtouch.landscape
+	ipodtouch.slash
+
+The following symbols may not be modified and may only be used to refer to Apple’s Live Photos feature:
+	livephoto
+	livephoto.badge.automatic
+	livephoto.play
+	livephoto.slash
+
+The following symbols may not be modified and may only be used to refer to Apple’s MacBook:
+	macbook
+	macbook.gen1
+	macbook.gen2
+
+The following symbols may not be modified and may only be used to refer to Apple Vision Pro and MacBook:
+	macbook.and.visionpro
+
+The following symbols may not be modified and may only be used to refer to Apple’s Mac mini:
+	macmini
+	macmini.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Mac Pro:
+	macpro.gen1
+	macpro.gen1.fill
+	macpro.gen2
+	macpro.gen2.fill
+	macpro.gen3
+	macpro.gen3.fill
+	macpro.gen3.server
+
+The following symbols may not be modified and may only be used to refer to Apple’s Mac Studio:
+	macstudio
+	macstudio.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Magic Mouse:
+	magicmouse
+	magicmouse.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s MagSafe Battery Pack:
+	magsafe.batterypack
+	magsafe.batterypack.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Optic ID feature:
+	opticid
+	opticid.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Markup feature:
+	pencil.tip
+	pencil.tip.crop.circle
+	pencil.tip.crop.circle.badge.arrow.forward
+	pencil.tip.crop.circle.badge.arrow.forward.fill
+	pencil.tip.crop.circle.badge.minus
+	pencil.tip.crop.circle.badge.minus.fill
+	pencil.tip.crop.circle.badge.plus
+	pencil.tip.crop.circle.badge.plus.fill
+	pencil.tip.crop.circle.fill
+
+The following symbols may not be modified and may only be used to refer to sharing or using a shared password or passkey:
+	person.2.badge.key
+	person.2.badge.key.fill
+
+The following symbols may not be modified and may only be used to refer to creating or signing in with a passkey:
+	person.badge.key
+	person.badge.key.fill
+
+The following symbols may not be modified and may only be used to refer to Sony’s PlayStation:
+	playstation.logo
+
+The following symbols may not be modified and may only be used to refer to Apple’s Safari browser:
+	safari
+	safari.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Shared With You feature:
+	shared.with.you
+	shared.with.you.circle
+	shared.with.you.circle.fill
+	shared.with.you.slash
+
+The following symbols may not be modified and may only be used to refer to Apple’s SharePlay:
+	shareplay
+	shareplay.slash
+
+The following symbols may not be modified and may only be used to refer to Apple’s Shazam:
+	shazam.logo
+	shazam.logo.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Swift programming language:
+	swift
+
+The following symbols may not be modified and may only be used to refer to Apple’s SwiftData:
+	swiftdata
+
+The following symbols may not be modified and may only be used to refer to Apple’s Teletype feature:
+	teletype
+	teletype.answer
+	teletype.answer.circle
+	teletype.answer.circle.fill
+	teletype.circle
+	teletype.circle.fill
+
+The following symbols may not be modified and may only be used to refer to Apple’s Touch ID feature:
+	touchid
+
+The following symbols may not be modified and may only be used to refer to Microsoft’s Xbox:
+	xbox.logo
+
+The following symbols may not be modified and may only be used to refer to Apple’s Xserve:
+	xserve
+
+The following symbols may not be modified and may only be used to refer to Apple’s Xserve RAID:
+	xserve.raid
